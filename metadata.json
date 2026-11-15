@@ -1,0 +1,6 @@
+{
+  "name": "Сповідь: Монолог про ігнор",
+  "description": "Драматичний чоловічий монолог та аудіо-сповідь з озвученням Gemini 3.8 Flash TTS: «Ігнор вбиває почуття». Атмосферний аудіоплеєр, синхронні субтитри, аудіовізуалізатор та тембри голосу.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
